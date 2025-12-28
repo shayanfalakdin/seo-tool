@@ -1,0 +1,33 @@
+# =========================
+# PyCharm / JetBrains
+# =========================
+.idea/
+*.iml
+*xml
+
+/shelf/
+/workspace.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
+
+
+.env
+.venv
+venv/
+env/
+conda-env/
+miniconda/
+anaconda/
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+*.log
+*.tmp
+
+
+.DS_Store
+Thumbs.db
